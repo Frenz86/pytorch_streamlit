@@ -1,0 +1,6 @@
+pillow
+streamlit ==0.73
+torchvision
+torch
+pandas
+numpy
